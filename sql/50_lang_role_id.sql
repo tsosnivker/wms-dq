@@ -1,0 +1,1 @@
+SELECT count(*) FROM v_wm_work_lang WHERE lang_role_id is null

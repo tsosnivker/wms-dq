@@ -1,0 +1,1 @@
+SELECT MIN(pub_date) , MAX(pub_date) FROM v_wm_work

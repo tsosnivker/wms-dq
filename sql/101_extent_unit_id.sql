@@ -1,0 +1,1 @@
+SELECT MIN(extent_unit_id) AS "min extent unit id", MAX(extent_unit_id) AS "max extent unit id" FROM v_wm_work_extent

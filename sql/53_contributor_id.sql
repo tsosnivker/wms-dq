@@ -1,0 +1,1 @@
+SELECT MIN(contributor_id) AS "min contributor_id", MAX(contributor_id) AS "max contributor_id" FROM v_wm_work_contributor

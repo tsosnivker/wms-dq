@@ -1,0 +1,1 @@
+SELECT MIN(wr_wrk_id) AS "min wr wrk id", MAX(wr_wrk_id) AS "max wr wrk id" FROM v_wm_work_integration_value

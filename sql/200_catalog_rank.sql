@@ -1,0 +1,1 @@
+SELECT catalog_rank , count (catalog_rank) FROM v_wm_work_integration_value GROUP BY catalog_rank

@@ -1,0 +1,1 @@
+SELECT MIN(partsectionnum) AS "min partsectionnum", MAX(partsectionnum) AS "max partsectionnum" FROM v_wm_work_attribute

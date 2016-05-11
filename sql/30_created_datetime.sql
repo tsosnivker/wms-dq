@@ -1,0 +1,1 @@
+SELECT count(*) FROM v_wm_work WHERE created_datetime is null

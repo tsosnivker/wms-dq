@@ -1,0 +1,1 @@
+SELECT MIN(catalog_rank) AS "min catalog rank", MAX(catalog_rank) AS "max catalog rank" FROM v_wm_work_integration_value

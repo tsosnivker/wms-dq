@@ -1,0 +1,1 @@
+SELECT count(*) FROM v_wm_work_extent WHERE value is null

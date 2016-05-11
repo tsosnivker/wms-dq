@@ -1,0 +1,1 @@
+SELECT count(*) FROM v_wm_work_attribute WHERE end_page is null

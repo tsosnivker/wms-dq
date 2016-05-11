@@ -1,0 +1,1 @@
+SELECT count(*) FROM v_wm_work WHERE main_title = UPPER(main_title)

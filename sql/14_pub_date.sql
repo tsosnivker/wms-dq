@@ -1,0 +1,1 @@
+SELECT pub_date , count (pub_date) FROM v_wm_work GROUP BY pub_date
