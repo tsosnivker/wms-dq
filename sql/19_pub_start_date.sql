@@ -1,0 +1,1 @@
+SELECT MIN(pub_start_date) AS min_start_date, MAX(pub_start_date) AS max_start_date FROM v_wm_work

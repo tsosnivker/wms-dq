@@ -1,0 +1,1 @@
+SELECT MIN(end_page) AS "min end page", MAX(end_page) AS "max end page" FROM v_wm_work_attribute

@@ -1,0 +1,1 @@
+SELECT MIN(tf_updated_datetime) AS "min tf updated datetime", MAX(tf_updated_datetime) AS "max tf updated datetime" FROM v_wm_work_integration_value

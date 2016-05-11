@@ -1,0 +1,1 @@
+SELECT MIN(value) AS "min value", MAX(value) AS "max value" FROM v_wm_work_extent

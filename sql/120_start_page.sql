@@ -1,0 +1,1 @@
+SELECT MIN(start_page) AS "min start page", MAX(start_page) AS "max start page" FROM v_wm_work_attribute

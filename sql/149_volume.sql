@@ -1,0 +1,1 @@
+SELECT MIN(volume) AS "min volume", MAX(volume) AS "max volume" FROM v_wm_work_attribute

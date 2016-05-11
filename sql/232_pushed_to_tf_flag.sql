@@ -1,0 +1,1 @@
+SELECT count(*) FROM v_wm_work_integration_value WHERE pushed_to_tf_flag is null

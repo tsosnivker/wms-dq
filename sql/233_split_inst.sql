@@ -1,0 +1,1 @@
+SELECT split_inst , count (split_inst) FROM v_wm_work_integration_value GROUP BY split_inst

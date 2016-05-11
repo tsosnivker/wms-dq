@@ -1,0 +1,1 @@
+SELECT MIN(issue) AS "min issue", MAX(issue) AS "max issue" FROM v_wm_work_attribute

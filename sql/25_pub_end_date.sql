@@ -1,0 +1,1 @@
+SELECT count(*)FROM v_wm_work WHERE pub_end_date is null
